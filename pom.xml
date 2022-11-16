@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <jackson-databind.version>2.9.10.1</jackson-databind.version>
+        <jackson-databind.version>2.12.7.1</jackson-databind.version>
         <testng.version>7.1.0</testng.version>
         <rest-assured.version>4.2.0</rest-assured.version>
     </properties>
